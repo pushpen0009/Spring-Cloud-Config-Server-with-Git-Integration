@@ -17,7 +17,3 @@ spring.cloud.config.server.git.uri will bind the git location to look for the co
 * Maven 4
 * JDK 8
 * Eclipse Photon
-
-## Related Tutorials
-
-1. [Spring Cloud Config Server with Git Integration]
